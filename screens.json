@@ -1,0 +1,2390 @@
+{
+  "screens": [
+    {
+      "title": "Executive Overview",
+      "path": "/command-center/executive-overview",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 1
+    },
+    {
+      "title": "Operations Overview",
+      "path": "/command-center/operations-overview",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 2
+    },
+    {
+      "title": "Project Portfolio",
+      "path": "/command-center/project-portfolio",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "table",
+      "id": 3
+    },
+    {
+      "title": "Safety Performance",
+      "path": "/command-center/safety-performance",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 4
+    },
+    {
+      "title": "Compliance Scorecard",
+      "path": "/command-center/compliance-scorecard",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 5
+    },
+    {
+      "title": "Workforce Health",
+      "path": "/command-center/workforce-health",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 6
+    },
+    {
+      "title": "Contractor Pulse",
+      "path": "/command-center/contractor-pulse",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 7
+    },
+    {
+      "title": "Risk Heatmap",
+      "path": "/command-center/risk-heatmap",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "dashboard",
+      "id": 8
+    },
+    {
+      "title": "Critical Actions",
+      "path": "/command-center/critical-actions",
+      "group": "Command Center",
+      "icon": "layout-dashboard",
+      "kind": "table",
+      "id": 9
+    },
+    {
+      "title": "Health Overview",
+      "path": "/occupational-health/health-overview",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "dashboard",
+      "id": 10
+    },
+    {
+      "title": "Employee Medical Records",
+      "path": "/occupational-health/employee-medical-records",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 11
+    },
+    {
+      "title": "Medical Record Detail",
+      "path": "/occupational-health/medical-record-detail",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "detail",
+      "id": 12
+    },
+    {
+      "title": "Clinic Directory",
+      "path": "/occupational-health/clinic-directory",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 13
+    },
+    {
+      "title": "Clinic Staff Registry",
+      "path": "/occupational-health/clinic-staff-registry",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "map",
+      "id": 14
+    },
+    {
+      "title": "Appointment Calendar",
+      "path": "/occupational-health/appointment-calendar",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "calendar",
+      "id": 15
+    },
+    {
+      "title": "Pre-placement Assessments",
+      "path": "/occupational-health/pre-placement-assessments",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 16
+    },
+    {
+      "title": "Periodic Surveillance",
+      "path": "/occupational-health/periodic-surveillance",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 17
+    },
+    {
+      "title": "Return-to-Work Assessments",
+      "path": "/occupational-health/return-to-work-assessments",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 18
+    },
+    {
+      "title": "Fitness Certificates",
+      "path": "/occupational-health/fitness-certificates",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "detail",
+      "id": 19
+    },
+    {
+      "title": "Work Restrictions",
+      "path": "/occupational-health/work-restrictions",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 20
+    },
+    {
+      "title": "Medical Test Results",
+      "path": "/occupational-health/medical-test-results",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 21
+    },
+    {
+      "title": "Injury and Illness Cases",
+      "path": "/occupational-health/injury-and-illness-cases",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 22
+    },
+    {
+      "title": "Medical Case Detail",
+      "path": "/occupational-health/medical-case-detail",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "detail",
+      "id": 23
+    },
+    {
+      "title": "Medical Questionnaires",
+      "path": "/occupational-health/medical-questionnaires",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 24
+    },
+    {
+      "title": "Mental Wellbeing",
+      "path": "/occupational-health/mental-wellbeing",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 25
+    },
+    {
+      "title": "Medical Coding Library",
+      "path": "/occupational-health/medical-coding-library",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "table",
+      "id": 26
+    },
+    {
+      "title": "Health Analytics",
+      "path": "/occupational-health/health-analytics",
+      "group": "Occupational Health",
+      "icon": "heart-pulse",
+      "kind": "dashboard",
+      "id": 27
+    },
+    {
+      "title": "Hygiene Overview",
+      "path": "/industrial-hygiene/hygiene-overview",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "dashboard",
+      "id": 28
+    },
+    {
+      "title": "Exposure Monitoring",
+      "path": "/industrial-hygiene/exposure-monitoring",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 29
+    },
+    {
+      "title": "Exposure Sample Detail",
+      "path": "/industrial-hygiene/exposure-sample-detail",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "detail",
+      "id": 30
+    },
+    {
+      "title": "Similar Exposure Groups",
+      "path": "/industrial-hygiene/similar-exposure-groups",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 31
+    },
+    {
+      "title": "Noise Assessments",
+      "path": "/industrial-hygiene/noise-assessments",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 32
+    },
+    {
+      "title": "Silica Monitoring",
+      "path": "/industrial-hygiene/silica-monitoring",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 33
+    },
+    {
+      "title": "Chemical Exposure",
+      "path": "/industrial-hygiene/chemical-exposure",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 34
+    },
+    {
+      "title": "Equipment Monitoring",
+      "path": "/industrial-hygiene/equipment-monitoring",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 35
+    },
+    {
+      "title": "Exposure Standards",
+      "path": "/industrial-hygiene/exposure-standards",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 36
+    },
+    {
+      "title": "Quantitative Risk Assessments",
+      "path": "/industrial-hygiene/quantitative-risk-assessments",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 37
+    },
+    {
+      "title": "Bayesian Analysis",
+      "path": "/industrial-hygiene/bayesian-analysis",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 38
+    },
+    {
+      "title": "Exposure Trend Analytics",
+      "path": "/industrial-hygiene/exposure-trend-analytics",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "dashboard",
+      "id": 39
+    },
+    {
+      "title": "Hygiene Surveys",
+      "path": "/industrial-hygiene/hygiene-surveys",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "table",
+      "id": 40
+    },
+    {
+      "title": "Monitoring Schedule",
+      "path": "/industrial-hygiene/monitoring-schedule",
+      "group": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "kind": "calendar",
+      "id": 41
+    },
+    {
+      "title": "Safety Overview",
+      "path": "/construction-safety/safety-overview",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "dashboard",
+      "id": 42
+    },
+    {
+      "title": "Incident Register",
+      "path": "/construction-safety/incident-register",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "map",
+      "id": 43
+    },
+    {
+      "title": "Report New Incident",
+      "path": "/construction-safety/report-new-incident",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "form",
+      "id": 44
+    },
+    {
+      "title": "Incident Detail",
+      "path": "/construction-safety/incident-detail",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "detail",
+      "id": 45
+    },
+    {
+      "title": "Near Miss Register",
+      "path": "/construction-safety/near-miss-register",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "map",
+      "id": 46
+    },
+    {
+      "title": "Safety Observations",
+      "path": "/construction-safety/safety-observations",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 47
+    },
+    {
+      "title": "Observation Detail",
+      "path": "/construction-safety/observation-detail",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "detail",
+      "id": 48
+    },
+    {
+      "title": "Risk Assessments",
+      "path": "/construction-safety/risk-assessments",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 49
+    },
+    {
+      "title": "Risk Assessment Detail",
+      "path": "/construction-safety/risk-assessment-detail",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "detail",
+      "id": 50
+    },
+    {
+      "title": "Risk Register",
+      "path": "/construction-safety/risk-register",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "map",
+      "id": 51
+    },
+    {
+      "title": "Stop Work Notices",
+      "path": "/construction-safety/stop-work-notices",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 52
+    },
+    {
+      "title": "Lifting Operations",
+      "path": "/construction-safety/lifting-operations",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 53
+    },
+    {
+      "title": "Scaffolding Inspections",
+      "path": "/construction-safety/scaffolding-inspections",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 54
+    },
+    {
+      "title": "Critical Activities",
+      "path": "/construction-safety/critical-activities",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 55
+    },
+    {
+      "title": "Daily Safety Instructions",
+      "path": "/construction-safety/daily-safety-instructions",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 56
+    },
+    {
+      "title": "Toolbox Talks",
+      "path": "/construction-safety/toolbox-talks",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 57
+    },
+    {
+      "title": "Two Week Lookahead",
+      "path": "/construction-safety/two-week-lookahead",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "calendar",
+      "id": 58
+    },
+    {
+      "title": "Construction Innovations",
+      "path": "/construction-safety/construction-innovations",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "table",
+      "id": 59
+    },
+    {
+      "title": "Safety KPI Dashboard",
+      "path": "/construction-safety/safety-kpi-dashboard",
+      "group": "Construction Safety",
+      "icon": "hard-hat",
+      "kind": "dashboard",
+      "id": 60
+    },
+    {
+      "title": "Permit Overview",
+      "path": "/permits-control-of-work/permit-overview",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "dashboard",
+      "id": 61
+    },
+    {
+      "title": "Active Permits",
+      "path": "/permits-control-of-work/active-permits",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "table",
+      "id": 62
+    },
+    {
+      "title": "Permit Applications",
+      "path": "/permits-control-of-work/permit-applications",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "form",
+      "id": 63
+    },
+    {
+      "title": "New Permit Request",
+      "path": "/permits-control-of-work/new-permit-request",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "form",
+      "id": 64
+    },
+    {
+      "title": "Permit Detail",
+      "path": "/permits-control-of-work/permit-detail",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "detail",
+      "id": 65
+    },
+    {
+      "title": "Permit Approvals",
+      "path": "/permits-control-of-work/permit-approvals",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "table",
+      "id": 66
+    },
+    {
+      "title": "High Risk Work",
+      "path": "/permits-control-of-work/high-risk-work",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "table",
+      "id": 67
+    },
+    {
+      "title": "Control of Work Register",
+      "path": "/permits-control-of-work/control-of-work-register",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "map",
+      "id": 68
+    },
+    {
+      "title": "Work Area Map",
+      "path": "/permits-control-of-work/work-area-map",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "map",
+      "id": 69
+    },
+    {
+      "title": "Permit Expirations",
+      "path": "/permits-control-of-work/permit-expirations",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "table",
+      "id": 70
+    },
+    {
+      "title": "Closed Permits",
+      "path": "/permits-control-of-work/closed-permits",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "table",
+      "id": 71
+    },
+    {
+      "title": "Permit Analytics",
+      "path": "/permits-control-of-work/permit-analytics",
+      "group": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "kind": "dashboard",
+      "id": 72
+    },
+    {
+      "title": "Security Overview",
+      "path": "/security-operations/security-overview",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "dashboard",
+      "id": 73
+    },
+    {
+      "title": "Security Incidents",
+      "path": "/security-operations/security-incidents",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "table",
+      "id": 74
+    },
+    {
+      "title": "Security Incident Detail",
+      "path": "/security-operations/security-incident-detail",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "detail",
+      "id": 75
+    },
+    {
+      "title": "Guard Assignments",
+      "path": "/security-operations/guard-assignments",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "table",
+      "id": 76
+    },
+    {
+      "title": "Patrol Monitoring",
+      "path": "/security-operations/patrol-monitoring",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "map",
+      "id": 77
+    },
+    {
+      "title": "Patrol Routes",
+      "path": "/security-operations/patrol-routes",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "map",
+      "id": 78
+    },
+    {
+      "title": "Access Control Log",
+      "path": "/security-operations/access-control-log",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "table",
+      "id": 79
+    },
+    {
+      "title": "Visitor Register",
+      "path": "/security-operations/visitor-register",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "map",
+      "id": 80
+    },
+    {
+      "title": "Visitor Check In",
+      "path": "/security-operations/visitor-check-in",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "form",
+      "id": 81
+    },
+    {
+      "title": "Traffic Violations",
+      "path": "/security-operations/traffic-violations",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "table",
+      "id": 82
+    },
+    {
+      "title": "Security Compliance",
+      "path": "/security-operations/security-compliance",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "table",
+      "id": 83
+    },
+    {
+      "title": "Vesa Integration",
+      "path": "/security-operations/vesa-integration",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "table",
+      "id": 84
+    },
+    {
+      "title": "Security Analytics",
+      "path": "/security-operations/security-analytics",
+      "group": "Security Operations",
+      "icon": "shield",
+      "kind": "dashboard",
+      "id": 85
+    },
+    {
+      "title": "Emergency Overview",
+      "path": "/emergency-management/emergency-overview",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "dashboard",
+      "id": 86
+    },
+    {
+      "title": "Response Plans",
+      "path": "/emergency-management/response-plans",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "table",
+      "id": 87
+    },
+    {
+      "title": "Emergency Plan Detail",
+      "path": "/emergency-management/emergency-plan-detail",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "detail",
+      "id": 88
+    },
+    {
+      "title": "Emergency Drill Calendar",
+      "path": "/emergency-management/emergency-drill-calendar",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "calendar",
+      "id": 89
+    },
+    {
+      "title": "Drill Register",
+      "path": "/emergency-management/drill-register",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "map",
+      "id": 90
+    },
+    {
+      "title": "Drill Evaluation",
+      "path": "/emergency-management/drill-evaluation",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "detail",
+      "id": 91
+    },
+    {
+      "title": "Emergency Contacts",
+      "path": "/emergency-management/emergency-contacts",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "table",
+      "id": 92
+    },
+    {
+      "title": "Crisis Communications",
+      "path": "/emergency-management/crisis-communications",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "table",
+      "id": 93
+    },
+    {
+      "title": "Emergency Logs",
+      "path": "/emergency-management/emergency-logs",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "table",
+      "id": 94
+    },
+    {
+      "title": "Response Teams",
+      "path": "/emergency-management/response-teams",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "table",
+      "id": 95
+    },
+    {
+      "title": "Emergency Corrective Actions",
+      "path": "/emergency-management/emergency-corrective-actions",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "table",
+      "id": 96
+    },
+    {
+      "title": "Emergency Analytics",
+      "path": "/emergency-management/emergency-analytics",
+      "group": "Emergency Management",
+      "icon": "siren",
+      "kind": "dashboard",
+      "id": 97
+    },
+    {
+      "title": "Continuity Overview",
+      "path": "/business-continuity/continuity-overview",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "dashboard",
+      "id": 98
+    },
+    {
+      "title": "BCM Governance",
+      "path": "/business-continuity/bcm-governance",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "table",
+      "id": 99
+    },
+    {
+      "title": "Business Impact Analysis",
+      "path": "/business-continuity/business-impact-analysis",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "table",
+      "id": 100
+    },
+    {
+      "title": "BIA Detail",
+      "path": "/business-continuity/bia-detail",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "detail",
+      "id": 101
+    },
+    {
+      "title": "Dependency Assessments",
+      "path": "/business-continuity/dependency-assessments",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "table",
+      "id": 102
+    },
+    {
+      "title": "Continuity Strategies",
+      "path": "/business-continuity/continuity-strategies",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "table",
+      "id": 103
+    },
+    {
+      "title": "Department Continuity Plans",
+      "path": "/business-continuity/department-continuity-plans",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "table",
+      "id": 104
+    },
+    {
+      "title": "Plan Detail",
+      "path": "/business-continuity/plan-detail",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "detail",
+      "id": 105
+    },
+    {
+      "title": "Crisis Activation",
+      "path": "/business-continuity/crisis-activation",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "detail",
+      "id": 106
+    },
+    {
+      "title": "Recovery Priorities",
+      "path": "/business-continuity/recovery-priorities",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "table",
+      "id": 107
+    },
+    {
+      "title": "BCM Risk Register",
+      "path": "/business-continuity/bcm-risk-register",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "map",
+      "id": 108
+    },
+    {
+      "title": "Business Continuity Analytics",
+      "path": "/business-continuity/business-continuity-analytics",
+      "group": "Business Continuity",
+      "icon": "workflow",
+      "kind": "dashboard",
+      "id": 109
+    },
+    {
+      "title": "Compliance Overview",
+      "path": "/compliance-governance/compliance-overview",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "dashboard",
+      "id": 110
+    },
+    {
+      "title": "Legal Register",
+      "path": "/compliance-governance/legal-register",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "map",
+      "id": 111
+    },
+    {
+      "title": "Regulatory Obligations",
+      "path": "/compliance-governance/regulatory-obligations",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 112
+    },
+    {
+      "title": "Policies and Procedures",
+      "path": "/compliance-governance/policies-and-procedures",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 113
+    },
+    {
+      "title": "Policy Detail",
+      "path": "/compliance-governance/policy-detail",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "detail",
+      "id": 114
+    },
+    {
+      "title": "Policy Approvals",
+      "path": "/compliance-governance/policy-approvals",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 115
+    },
+    {
+      "title": "Expiring Policies",
+      "path": "/compliance-governance/expiring-policies",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 116
+    },
+    {
+      "title": "Compliance Monitoring",
+      "path": "/compliance-governance/compliance-monitoring",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 117
+    },
+    {
+      "title": "Project Compliance",
+      "path": "/compliance-governance/project-compliance",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 118
+    },
+    {
+      "title": "Governance Reviews",
+      "path": "/compliance-governance/governance-reviews",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 119
+    },
+    {
+      "title": "Lessons Learned",
+      "path": "/compliance-governance/lessons-learned",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 120
+    },
+    {
+      "title": "Corrective Actions",
+      "path": "/compliance-governance/corrective-actions",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 121
+    },
+    {
+      "title": "Overdue Escalations",
+      "path": "/compliance-governance/overdue-escalations",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "table",
+      "id": 122
+    },
+    {
+      "title": "Compliance Analytics",
+      "path": "/compliance-governance/compliance-analytics",
+      "group": "Compliance & Governance",
+      "icon": "scale",
+      "kind": "dashboard",
+      "id": 123
+    },
+    {
+      "title": "Audit Overview",
+      "path": "/audits-inspections/audit-overview",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "dashboard",
+      "id": 124
+    },
+    {
+      "title": "Audit Schedule",
+      "path": "/audits-inspections/audit-schedule",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "calendar",
+      "id": 125
+    },
+    {
+      "title": "Audit Plan",
+      "path": "/audits-inspections/audit-plan",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "table",
+      "id": 126
+    },
+    {
+      "title": "Audit Register",
+      "path": "/audits-inspections/audit-register",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "map",
+      "id": 127
+    },
+    {
+      "title": "Audit Detail",
+      "path": "/audits-inspections/audit-detail",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "detail",
+      "id": 128
+    },
+    {
+      "title": "Audit Checklists",
+      "path": "/audits-inspections/audit-checklists",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "table",
+      "id": 129
+    },
+    {
+      "title": "Audit Execution",
+      "path": "/audits-inspections/audit-execution",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "table",
+      "id": 130
+    },
+    {
+      "title": "Inspection Register",
+      "path": "/audits-inspections/inspection-register",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "map",
+      "id": 131
+    },
+    {
+      "title": "New Inspection",
+      "path": "/audits-inspections/new-inspection",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "form",
+      "id": 132
+    },
+    {
+      "title": "Inspection Detail",
+      "path": "/audits-inspections/inspection-detail",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "detail",
+      "id": 133
+    },
+    {
+      "title": "Non-Conformance Register",
+      "path": "/audits-inspections/non-conformance-register",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "map",
+      "id": 134
+    },
+    {
+      "title": "NCR Detail",
+      "path": "/audits-inspections/ncr-detail",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "detail",
+      "id": 135
+    },
+    {
+      "title": "Corrective Action Tracker",
+      "path": "/audits-inspections/corrective-action-tracker",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "table",
+      "id": 136
+    },
+    {
+      "title": "Standards Mapping",
+      "path": "/audits-inspections/standards-mapping",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "map",
+      "id": 137
+    },
+    {
+      "title": "Audit Analytics",
+      "path": "/audits-inspections/audit-analytics",
+      "group": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "kind": "dashboard",
+      "id": 138
+    },
+    {
+      "title": "Contractor Overview",
+      "path": "/contractor-management/contractor-overview",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "dashboard",
+      "id": 139
+    },
+    {
+      "title": "Contractor Directory",
+      "path": "/contractor-management/contractor-directory",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 140
+    },
+    {
+      "title": "Contractor Profile",
+      "path": "/contractor-management/contractor-profile",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "detail",
+      "id": 141
+    },
+    {
+      "title": "Contractor Onboarding",
+      "path": "/contractor-management/contractor-onboarding",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "form",
+      "id": 142
+    },
+    {
+      "title": "Approved Activities",
+      "path": "/contractor-management/approved-activities",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 143
+    },
+    {
+      "title": "Contractor Projects",
+      "path": "/contractor-management/contractor-projects",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 144
+    },
+    {
+      "title": "Contractor Employees",
+      "path": "/contractor-management/contractor-employees",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 145
+    },
+    {
+      "title": "Competency Records",
+      "path": "/contractor-management/competency-records",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 146
+    },
+    {
+      "title": "Contractor Incidents",
+      "path": "/contractor-management/contractor-incidents",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 147
+    },
+    {
+      "title": "Contractor Inspections",
+      "path": "/contractor-management/contractor-inspections",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 148
+    },
+    {
+      "title": "Contractor Risk Register",
+      "path": "/contractor-management/contractor-risk-register",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "map",
+      "id": 149
+    },
+    {
+      "title": "Contractor Compliance",
+      "path": "/contractor-management/contractor-compliance",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "table",
+      "id": 150
+    },
+    {
+      "title": "Contractor Scorecards",
+      "path": "/contractor-management/contractor-scorecards",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "dashboard",
+      "id": 151
+    },
+    {
+      "title": "Contractor Analytics",
+      "path": "/contractor-management/contractor-analytics",
+      "group": "Contractor Management",
+      "icon": "building-2",
+      "kind": "dashboard",
+      "id": 152
+    },
+    {
+      "title": "Training Overview",
+      "path": "/training-development/training-overview",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "dashboard",
+      "id": 153
+    },
+    {
+      "title": "Training Calendar",
+      "path": "/training-development/training-calendar",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "calendar",
+      "id": 154
+    },
+    {
+      "title": "Training Plans",
+      "path": "/training-development/training-plans",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 155
+    },
+    {
+      "title": "Training Matrix",
+      "path": "/training-development/training-matrix",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 156
+    },
+    {
+      "title": "Course Catalog",
+      "path": "/training-development/course-catalog",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 157
+    },
+    {
+      "title": "Course Detail",
+      "path": "/training-development/course-detail",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "detail",
+      "id": 158
+    },
+    {
+      "title": "Training Requests",
+      "path": "/training-development/training-requests",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "form",
+      "id": 159
+    },
+    {
+      "title": "Training Approvals",
+      "path": "/training-development/training-approvals",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 160
+    },
+    {
+      "title": "Trainee Directory",
+      "path": "/training-development/trainee-directory",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 161
+    },
+    {
+      "title": "Trainee Profile",
+      "path": "/training-development/trainee-profile",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "detail",
+      "id": 162
+    },
+    {
+      "title": "Instructor Directory",
+      "path": "/training-development/instructor-directory",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 163
+    },
+    {
+      "title": "Instructor Schedule",
+      "path": "/training-development/instructor-schedule",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "calendar",
+      "id": 164
+    },
+    {
+      "title": "Classroom Allocation",
+      "path": "/training-development/classroom-allocation",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 165
+    },
+    {
+      "title": "QR Attendance",
+      "path": "/training-development/qr-attendance",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 166
+    },
+    {
+      "title": "Certification Records",
+      "path": "/training-development/certification-records",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 167
+    },
+    {
+      "title": "Training Materials",
+      "path": "/training-development/training-materials",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 168
+    },
+    {
+      "title": "Training Quality",
+      "path": "/training-development/training-quality",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "table",
+      "id": 169
+    },
+    {
+      "title": "Training Analytics",
+      "path": "/training-development/training-analytics",
+      "group": "Training & Development",
+      "icon": "graduation-cap",
+      "kind": "dashboard",
+      "id": 170
+    },
+    {
+      "title": "Environment Overview",
+      "path": "/environmental-esg/environment-overview",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "dashboard",
+      "id": 171
+    },
+    {
+      "title": "Water Use Register",
+      "path": "/environmental-esg/water-use-register",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "map",
+      "id": 172
+    },
+    {
+      "title": "Wastewater Monitoring",
+      "path": "/environmental-esg/wastewater-monitoring",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "table",
+      "id": 173
+    },
+    {
+      "title": "Air Emissions",
+      "path": "/environmental-esg/air-emissions",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "table",
+      "id": 174
+    },
+    {
+      "title": "GHG Inventory",
+      "path": "/environmental-esg/ghg-inventory",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "table",
+      "id": 175
+    },
+    {
+      "title": "Hazardous Waste",
+      "path": "/environmental-esg/hazardous-waste",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "table",
+      "id": 176
+    },
+    {
+      "title": "Chemical Inventory",
+      "path": "/environmental-esg/chemical-inventory",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "table",
+      "id": 177
+    },
+    {
+      "title": "Chemical Detail",
+      "path": "/environmental-esg/chemical-detail",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "detail",
+      "id": 178
+    },
+    {
+      "title": "ESG Performance",
+      "path": "/environmental-esg/esg-performance",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "dashboard",
+      "id": 179
+    },
+    {
+      "title": "Sustainability Reports",
+      "path": "/environmental-esg/sustainability-reports",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "analytics",
+      "id": 180
+    },
+    {
+      "title": "Environmental Risk Register",
+      "path": "/environmental-esg/environmental-risk-register",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "map",
+      "id": 181
+    },
+    {
+      "title": "Environment Analytics",
+      "path": "/environmental-esg/environment-analytics",
+      "group": "Environmental & ESG",
+      "icon": "leaf",
+      "kind": "dashboard",
+      "id": 182
+    },
+    {
+      "title": "Enterprise Risk Overview",
+      "path": "/risk-change/enterprise-risk-overview",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "dashboard",
+      "id": 183
+    },
+    {
+      "title": "Enterprise Risk Register",
+      "path": "/risk-change/enterprise-risk-register",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "map",
+      "id": 184
+    },
+    {
+      "title": "Risk Detail",
+      "path": "/risk-change/risk-detail",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "detail",
+      "id": 185
+    },
+    {
+      "title": "Risk Assessment Matrix",
+      "path": "/risk-change/risk-assessment-matrix",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "table",
+      "id": 186
+    },
+    {
+      "title": "Risk Treatment Plans",
+      "path": "/risk-change/risk-treatment-plans",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "table",
+      "id": 187
+    },
+    {
+      "title": "Change Requests",
+      "path": "/risk-change/change-requests",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "form",
+      "id": 188
+    },
+    {
+      "title": "Management of Change",
+      "path": "/risk-change/management-of-change",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "table",
+      "id": 189
+    },
+    {
+      "title": "Change Approval Board",
+      "path": "/risk-change/change-approval-board",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "table",
+      "id": 190
+    },
+    {
+      "title": "Risk Dependencies",
+      "path": "/risk-change/risk-dependencies",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "table",
+      "id": 191
+    },
+    {
+      "title": "Risk Analytics",
+      "path": "/risk-change/risk-analytics",
+      "group": "Risk & Change",
+      "icon": "triangle-alert",
+      "kind": "dashboard",
+      "id": 192
+    },
+    {
+      "title": "Document Center",
+      "path": "/documents-forms/document-center",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 193
+    },
+    {
+      "title": "Document Library",
+      "path": "/documents-forms/document-library",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 194
+    },
+    {
+      "title": "Document Detail",
+      "path": "/documents-forms/document-detail",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "detail",
+      "id": 195
+    },
+    {
+      "title": "Form Builder",
+      "path": "/documents-forms/form-builder",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "form",
+      "id": 196
+    },
+    {
+      "title": "Forms Library",
+      "path": "/documents-forms/forms-library",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 197
+    },
+    {
+      "title": "Checklist Templates",
+      "path": "/documents-forms/checklist-templates",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 198
+    },
+    {
+      "title": "Permit Templates",
+      "path": "/documents-forms/permit-templates",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 199
+    },
+    {
+      "title": "Approval Workflows",
+      "path": "/documents-forms/approval-workflows",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 200
+    },
+    {
+      "title": "Workflow Designer",
+      "path": "/documents-forms/workflow-designer",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "form",
+      "id": 201
+    },
+    {
+      "title": "Version Control",
+      "path": "/documents-forms/version-control",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 202
+    },
+    {
+      "title": "Document Approvals",
+      "path": "/documents-forms/document-approvals",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 203
+    },
+    {
+      "title": "Knowledge Base",
+      "path": "/documents-forms/knowledge-base",
+      "group": "Documents & Forms",
+      "icon": "files",
+      "kind": "table",
+      "id": 204
+    },
+    {
+      "title": "BI Overview",
+      "path": "/reports-intelligence/bi-overview",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "dashboard",
+      "id": 205
+    },
+    {
+      "title": "Safety Reports",
+      "path": "/reports-intelligence/safety-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 206
+    },
+    {
+      "title": "Medical Reports",
+      "path": "/reports-intelligence/medical-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 207
+    },
+    {
+      "title": "Industrial Hygiene Reports",
+      "path": "/reports-intelligence/industrial-hygiene-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 208
+    },
+    {
+      "title": "Security Reports",
+      "path": "/reports-intelligence/security-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 209
+    },
+    {
+      "title": "Contractor Reports",
+      "path": "/reports-intelligence/contractor-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 210
+    },
+    {
+      "title": "Training Reports",
+      "path": "/reports-intelligence/training-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 211
+    },
+    {
+      "title": "Emergency Reports",
+      "path": "/reports-intelligence/emergency-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 212
+    },
+    {
+      "title": "Audit Reports",
+      "path": "/reports-intelligence/audit-reports",
+      "group": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "kind": "analytics",
+      "id": 213
+    },
+    {
+      "title": "Projects Overview",
+      "path": "/projects-locations/projects-overview",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "dashboard",
+      "id": 214
+    },
+    {
+      "title": "Projects Directory",
+      "path": "/projects-locations/projects-directory",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "table",
+      "id": 215
+    },
+    {
+      "title": "Project Detail",
+      "path": "/projects-locations/project-detail",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "detail",
+      "id": 216
+    },
+    {
+      "title": "Site Directory",
+      "path": "/projects-locations/site-directory",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "table",
+      "id": 217
+    },
+    {
+      "title": "Site Detail",
+      "path": "/projects-locations/site-detail",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "detail",
+      "id": 218
+    },
+    {
+      "title": "GIS Location Viewer",
+      "path": "/projects-locations/gis-location-viewer",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "map",
+      "id": 219
+    },
+    {
+      "title": "Road Closures",
+      "path": "/projects-locations/road-closures",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "map",
+      "id": 220
+    },
+    {
+      "title": "Clinic Map",
+      "path": "/projects-locations/clinic-map",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "map",
+      "id": 221
+    },
+    {
+      "title": "Site Activity Calendar",
+      "path": "/projects-locations/site-activity-calendar",
+      "group": "Projects & Locations",
+      "icon": "map-pinned",
+      "kind": "calendar",
+      "id": 222
+    },
+    {
+      "title": "Admin Overview",
+      "path": "/administration/admin-overview",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "dashboard",
+      "id": 223
+    },
+    {
+      "title": "User Directory",
+      "path": "/administration/user-directory",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 224
+    },
+    {
+      "title": "User Profile",
+      "path": "/administration/user-profile",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "detail",
+      "id": 225
+    },
+    {
+      "title": "Roles and Permissions",
+      "path": "/administration/roles-and-permissions",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "form",
+      "id": 226
+    },
+    {
+      "title": "User Invitations",
+      "path": "/administration/user-invitations",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 227
+    },
+    {
+      "title": "Organization Structure",
+      "path": "/administration/organization-structure",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 228
+    },
+    {
+      "title": "Master Data",
+      "path": "/administration/master-data",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 229
+    },
+    {
+      "title": "System Configuration",
+      "path": "/administration/system-configuration",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "form",
+      "id": 230
+    },
+    {
+      "title": "Notification Rules",
+      "path": "/administration/notification-rules",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "form",
+      "id": 231
+    },
+    {
+      "title": "Integrations Hub",
+      "path": "/administration/integrations-hub",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 232
+    },
+    {
+      "title": "Integration Detail",
+      "path": "/administration/integration-detail",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "detail",
+      "id": 233
+    },
+    {
+      "title": "Data Import Center",
+      "path": "/administration/data-import-center",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "form",
+      "id": 234
+    },
+    {
+      "title": "Migration History",
+      "path": "/administration/migration-history",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 235
+    },
+    {
+      "title": "Audit Logs",
+      "path": "/administration/audit-logs",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 236
+    },
+    {
+      "title": "Security Settings",
+      "path": "/administration/security-settings",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "form",
+      "id": 237
+    },
+    {
+      "title": "Translation Settings",
+      "path": "/administration/translation-settings",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "form",
+      "id": 238
+    },
+    {
+      "title": "License Management",
+      "path": "/administration/license-management",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "table",
+      "id": 239
+    },
+    {
+      "title": "System Health",
+      "path": "/administration/system-health",
+      "group": "Administration",
+      "icon": "settings-2",
+      "kind": "dashboard",
+      "id": 240
+    },
+    {
+      "title": "Support Overview",
+      "path": "/support-service/support-overview",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "dashboard",
+      "id": 241
+    },
+    {
+      "title": "Support Tickets",
+      "path": "/support-service/support-tickets",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "table",
+      "id": 242
+    },
+    {
+      "title": "Ticket Detail",
+      "path": "/support-service/ticket-detail",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "detail",
+      "id": 243
+    },
+    {
+      "title": "New Support Request",
+      "path": "/support-service/new-support-request",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "form",
+      "id": 244
+    },
+    {
+      "title": "ServiceNow Requests",
+      "path": "/support-service/servicenow-requests",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "form",
+      "id": 245
+    },
+    {
+      "title": "Service Level Agreements",
+      "path": "/support-service/service-level-agreements",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "table",
+      "id": 246
+    },
+    {
+      "title": "Maintenance Calendar",
+      "path": "/support-service/maintenance-calendar",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "calendar",
+      "id": 247
+    },
+    {
+      "title": "Release Notes",
+      "path": "/support-service/release-notes",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "table",
+      "id": 248
+    },
+    {
+      "title": "System Incidents",
+      "path": "/support-service/system-incidents",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "table",
+      "id": 249
+    },
+    {
+      "title": "Support Performance",
+      "path": "/support-service/support-performance",
+      "group": "Support & Service",
+      "icon": "headset",
+      "kind": "dashboard",
+      "id": 250
+    }
+  ],
+  "groups": [
+    {
+      "name": "Command Center",
+      "icon": "layout-dashboard",
+      "slug": "command-center",
+      "pages": [
+        "/command-center/executive-overview",
+        "/command-center/operations-overview",
+        "/command-center/project-portfolio",
+        "/command-center/safety-performance",
+        "/command-center/compliance-scorecard",
+        "/command-center/workforce-health",
+        "/command-center/contractor-pulse",
+        "/command-center/risk-heatmap",
+        "/command-center/critical-actions"
+      ]
+    },
+    {
+      "name": "Occupational Health",
+      "icon": "heart-pulse",
+      "slug": "occupational-health",
+      "pages": [
+        "/occupational-health/health-overview",
+        "/occupational-health/employee-medical-records",
+        "/occupational-health/medical-record-detail",
+        "/occupational-health/clinic-directory",
+        "/occupational-health/clinic-staff-registry",
+        "/occupational-health/appointment-calendar",
+        "/occupational-health/pre-placement-assessments",
+        "/occupational-health/periodic-surveillance",
+        "/occupational-health/return-to-work-assessments",
+        "/occupational-health/fitness-certificates",
+        "/occupational-health/work-restrictions",
+        "/occupational-health/medical-test-results",
+        "/occupational-health/injury-and-illness-cases",
+        "/occupational-health/medical-case-detail",
+        "/occupational-health/medical-questionnaires",
+        "/occupational-health/mental-wellbeing",
+        "/occupational-health/medical-coding-library",
+        "/occupational-health/health-analytics"
+      ]
+    },
+    {
+      "name": "Industrial Hygiene",
+      "icon": "flask-conical",
+      "slug": "industrial-hygiene",
+      "pages": [
+        "/industrial-hygiene/hygiene-overview",
+        "/industrial-hygiene/exposure-monitoring",
+        "/industrial-hygiene/exposure-sample-detail",
+        "/industrial-hygiene/similar-exposure-groups",
+        "/industrial-hygiene/noise-assessments",
+        "/industrial-hygiene/silica-monitoring",
+        "/industrial-hygiene/chemical-exposure",
+        "/industrial-hygiene/equipment-monitoring",
+        "/industrial-hygiene/exposure-standards",
+        "/industrial-hygiene/quantitative-risk-assessments",
+        "/industrial-hygiene/bayesian-analysis",
+        "/industrial-hygiene/exposure-trend-analytics",
+        "/industrial-hygiene/hygiene-surveys",
+        "/industrial-hygiene/monitoring-schedule"
+      ]
+    },
+    {
+      "name": "Construction Safety",
+      "icon": "hard-hat",
+      "slug": "construction-safety",
+      "pages": [
+        "/construction-safety/safety-overview",
+        "/construction-safety/incident-register",
+        "/construction-safety/report-new-incident",
+        "/construction-safety/incident-detail",
+        "/construction-safety/near-miss-register",
+        "/construction-safety/safety-observations",
+        "/construction-safety/observation-detail",
+        "/construction-safety/risk-assessments",
+        "/construction-safety/risk-assessment-detail",
+        "/construction-safety/risk-register",
+        "/construction-safety/stop-work-notices",
+        "/construction-safety/lifting-operations",
+        "/construction-safety/scaffolding-inspections",
+        "/construction-safety/critical-activities",
+        "/construction-safety/daily-safety-instructions",
+        "/construction-safety/toolbox-talks",
+        "/construction-safety/two-week-lookahead",
+        "/construction-safety/construction-innovations",
+        "/construction-safety/safety-kpi-dashboard"
+      ]
+    },
+    {
+      "name": "Permits & Control of Work",
+      "icon": "clipboard-check",
+      "slug": "permits-control-of-work",
+      "pages": [
+        "/permits-control-of-work/permit-overview",
+        "/permits-control-of-work/active-permits",
+        "/permits-control-of-work/permit-applications",
+        "/permits-control-of-work/new-permit-request",
+        "/permits-control-of-work/permit-detail",
+        "/permits-control-of-work/permit-approvals",
+        "/permits-control-of-work/high-risk-work",
+        "/permits-control-of-work/control-of-work-register",
+        "/permits-control-of-work/work-area-map",
+        "/permits-control-of-work/permit-expirations",
+        "/permits-control-of-work/closed-permits",
+        "/permits-control-of-work/permit-analytics"
+      ]
+    },
+    {
+      "name": "Security Operations",
+      "icon": "shield",
+      "slug": "security-operations",
+      "pages": [
+        "/security-operations/security-overview",
+        "/security-operations/security-incidents",
+        "/security-operations/security-incident-detail",
+        "/security-operations/guard-assignments",
+        "/security-operations/patrol-monitoring",
+        "/security-operations/patrol-routes",
+        "/security-operations/access-control-log",
+        "/security-operations/visitor-register",
+        "/security-operations/visitor-check-in",
+        "/security-operations/traffic-violations",
+        "/security-operations/security-compliance",
+        "/security-operations/vesa-integration",
+        "/security-operations/security-analytics"
+      ]
+    },
+    {
+      "name": "Emergency Management",
+      "icon": "siren",
+      "slug": "emergency-management",
+      "pages": [
+        "/emergency-management/emergency-overview",
+        "/emergency-management/response-plans",
+        "/emergency-management/emergency-plan-detail",
+        "/emergency-management/emergency-drill-calendar",
+        "/emergency-management/drill-register",
+        "/emergency-management/drill-evaluation",
+        "/emergency-management/emergency-contacts",
+        "/emergency-management/crisis-communications",
+        "/emergency-management/emergency-logs",
+        "/emergency-management/response-teams",
+        "/emergency-management/emergency-corrective-actions",
+        "/emergency-management/emergency-analytics"
+      ]
+    },
+    {
+      "name": "Business Continuity",
+      "icon": "workflow",
+      "slug": "business-continuity",
+      "pages": [
+        "/business-continuity/continuity-overview",
+        "/business-continuity/bcm-governance",
+        "/business-continuity/business-impact-analysis",
+        "/business-continuity/bia-detail",
+        "/business-continuity/dependency-assessments",
+        "/business-continuity/continuity-strategies",
+        "/business-continuity/department-continuity-plans",
+        "/business-continuity/plan-detail",
+        "/business-continuity/crisis-activation",
+        "/business-continuity/recovery-priorities",
+        "/business-continuity/bcm-risk-register",
+        "/business-continuity/business-continuity-analytics"
+      ]
+    },
+    {
+      "name": "Compliance & Governance",
+      "icon": "scale",
+      "slug": "compliance-governance",
+      "pages": [
+        "/compliance-governance/compliance-overview",
+        "/compliance-governance/legal-register",
+        "/compliance-governance/regulatory-obligations",
+        "/compliance-governance/policies-and-procedures",
+        "/compliance-governance/policy-detail",
+        "/compliance-governance/policy-approvals",
+        "/compliance-governance/expiring-policies",
+        "/compliance-governance/compliance-monitoring",
+        "/compliance-governance/project-compliance",
+        "/compliance-governance/governance-reviews",
+        "/compliance-governance/lessons-learned",
+        "/compliance-governance/corrective-actions",
+        "/compliance-governance/overdue-escalations",
+        "/compliance-governance/compliance-analytics"
+      ]
+    },
+    {
+      "name": "Audits & Inspections",
+      "icon": "clipboard-list",
+      "slug": "audits-inspections",
+      "pages": [
+        "/audits-inspections/audit-overview",
+        "/audits-inspections/audit-schedule",
+        "/audits-inspections/audit-plan",
+        "/audits-inspections/audit-register",
+        "/audits-inspections/audit-detail",
+        "/audits-inspections/audit-checklists",
+        "/audits-inspections/audit-execution",
+        "/audits-inspections/inspection-register",
+        "/audits-inspections/new-inspection",
+        "/audits-inspections/inspection-detail",
+        "/audits-inspections/non-conformance-register",
+        "/audits-inspections/ncr-detail",
+        "/audits-inspections/corrective-action-tracker",
+        "/audits-inspections/standards-mapping",
+        "/audits-inspections/audit-analytics"
+      ]
+    },
+    {
+      "name": "Contractor Management",
+      "icon": "building-2",
+      "slug": "contractor-management",
+      "pages": [
+        "/contractor-management/contractor-overview",
+        "/contractor-management/contractor-directory",
+        "/contractor-management/contractor-profile",
+        "/contractor-management/contractor-onboarding",
+        "/contractor-management/approved-activities",
+        "/contractor-management/contractor-projects",
+        "/contractor-management/contractor-employees",
+        "/contractor-management/competency-records",
+        "/contractor-management/contractor-incidents",
+        "/contractor-management/contractor-inspections",
+        "/contractor-management/contractor-risk-register",
+        "/contractor-management/contractor-compliance",
+        "/contractor-management/contractor-scorecards",
+        "/contractor-management/contractor-analytics"
+      ]
+    },
+    {
+      "name": "Training & Development",
+      "icon": "graduation-cap",
+      "slug": "training-development",
+      "pages": [
+        "/training-development/training-overview",
+        "/training-development/training-calendar",
+        "/training-development/training-plans",
+        "/training-development/training-matrix",
+        "/training-development/course-catalog",
+        "/training-development/course-detail",
+        "/training-development/training-requests",
+        "/training-development/training-approvals",
+        "/training-development/trainee-directory",
+        "/training-development/trainee-profile",
+        "/training-development/instructor-directory",
+        "/training-development/instructor-schedule",
+        "/training-development/classroom-allocation",
+        "/training-development/qr-attendance",
+        "/training-development/certification-records",
+        "/training-development/training-materials",
+        "/training-development/training-quality",
+        "/training-development/training-analytics"
+      ]
+    },
+    {
+      "name": "Environmental & ESG",
+      "icon": "leaf",
+      "slug": "environmental-esg",
+      "pages": [
+        "/environmental-esg/environment-overview",
+        "/environmental-esg/water-use-register",
+        "/environmental-esg/wastewater-monitoring",
+        "/environmental-esg/air-emissions",
+        "/environmental-esg/ghg-inventory",
+        "/environmental-esg/hazardous-waste",
+        "/environmental-esg/chemical-inventory",
+        "/environmental-esg/chemical-detail",
+        "/environmental-esg/esg-performance",
+        "/environmental-esg/sustainability-reports",
+        "/environmental-esg/environmental-risk-register",
+        "/environmental-esg/environment-analytics"
+      ]
+    },
+    {
+      "name": "Risk & Change",
+      "icon": "triangle-alert",
+      "slug": "risk-change",
+      "pages": [
+        "/risk-change/enterprise-risk-overview",
+        "/risk-change/enterprise-risk-register",
+        "/risk-change/risk-detail",
+        "/risk-change/risk-assessment-matrix",
+        "/risk-change/risk-treatment-plans",
+        "/risk-change/change-requests",
+        "/risk-change/management-of-change",
+        "/risk-change/change-approval-board",
+        "/risk-change/risk-dependencies",
+        "/risk-change/risk-analytics"
+      ]
+    },
+    {
+      "name": "Documents & Forms",
+      "icon": "files",
+      "slug": "documents-forms",
+      "pages": [
+        "/documents-forms/document-center",
+        "/documents-forms/document-library",
+        "/documents-forms/document-detail",
+        "/documents-forms/form-builder",
+        "/documents-forms/forms-library",
+        "/documents-forms/checklist-templates",
+        "/documents-forms/permit-templates",
+        "/documents-forms/approval-workflows",
+        "/documents-forms/workflow-designer",
+        "/documents-forms/version-control",
+        "/documents-forms/document-approvals",
+        "/documents-forms/knowledge-base"
+      ]
+    },
+    {
+      "name": "Reports & Intelligence",
+      "icon": "chart-no-axes-combined",
+      "slug": "reports-intelligence",
+      "pages": [
+        "/reports-intelligence/bi-overview",
+        "/reports-intelligence/safety-reports",
+        "/reports-intelligence/medical-reports",
+        "/reports-intelligence/industrial-hygiene-reports",
+        "/reports-intelligence/security-reports",
+        "/reports-intelligence/contractor-reports",
+        "/reports-intelligence/training-reports",
+        "/reports-intelligence/emergency-reports",
+        "/reports-intelligence/audit-reports"
+      ]
+    },
+    {
+      "name": "Projects & Locations",
+      "icon": "map-pinned",
+      "slug": "projects-locations",
+      "pages": [
+        "/projects-locations/projects-overview",
+        "/projects-locations/projects-directory",
+        "/projects-locations/project-detail",
+        "/projects-locations/site-directory",
+        "/projects-locations/site-detail",
+        "/projects-locations/gis-location-viewer",
+        "/projects-locations/road-closures",
+        "/projects-locations/clinic-map",
+        "/projects-locations/site-activity-calendar"
+      ]
+    },
+    {
+      "name": "Administration",
+      "icon": "settings-2",
+      "slug": "administration",
+      "pages": [
+        "/administration/admin-overview",
+        "/administration/user-directory",
+        "/administration/user-profile",
+        "/administration/roles-and-permissions",
+        "/administration/user-invitations",
+        "/administration/organization-structure",
+        "/administration/master-data",
+        "/administration/system-configuration",
+        "/administration/notification-rules",
+        "/administration/integrations-hub",
+        "/administration/integration-detail",
+        "/administration/data-import-center",
+        "/administration/migration-history",
+        "/administration/audit-logs",
+        "/administration/security-settings",
+        "/administration/translation-settings",
+        "/administration/license-management",
+        "/administration/system-health"
+      ]
+    },
+    {
+      "name": "Support & Service",
+      "icon": "headset",
+      "slug": "support-service",
+      "pages": [
+        "/support-service/support-overview",
+        "/support-service/support-tickets",
+        "/support-service/ticket-detail",
+        "/support-service/new-support-request",
+        "/support-service/servicenow-requests",
+        "/support-service/service-level-agreements",
+        "/support-service/maintenance-calendar",
+        "/support-service/release-notes",
+        "/support-service/system-incidents",
+        "/support-service/support-performance"
+      ]
+    }
+  ],
+  "count": 250
+}
